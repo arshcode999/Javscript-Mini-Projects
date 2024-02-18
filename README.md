@@ -1,7 +1,7 @@
 # Javscript Mini Projects
  <b>As a beginners in javascript try these projects, <font size="90px">Helps you to strong your basics</font></b>
  <br>
- These projects only for educational purpose , It helps to practice the javascript by just knowing the basics of javscript you can start these projects.
+ These projects only for educational purpose , It helps you to practice the javascript by just knowing the basics of javscript you can start these projects.
  # 1. Counter webpage [Day 1]
  #!Light mode view
  <img src="https://raw.githubusercontent.com/arshcode999/Javscript-Mini-Projects/main/counter%20project/Preview/light%20mode.jpeg">
