@@ -6,5 +6,5 @@
  <br>
   #!Dark mode view
  <img src="https://raw.githubusercontent.com/arshcode999/Javscript-Mini-Projects/main/counter%20project/Preview/dark%20mode.jpeg">
- # 1. To do Project [Day 2]
-  <img src="">
+ # 2. To do Project [Day 2]
+  <img src="https://raw.githubusercontent.com/arshcode999/Javscript-Mini-Projects/main/To%20Do%20app/preview/To%20do.jpeg">
