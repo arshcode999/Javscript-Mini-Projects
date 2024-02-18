@@ -1,5 +1,6 @@
 # Javscript Mini Projects
- As a beginners in javascript try these projects
+ <b>As a beginners in javascript try these projects</b>
+ <br>
  These projects only for educational purpose , It helps to practice the javascript by just knowing the basics of javscript you can start these projects.
  # 1. Counter webpage [Day 1]
  #!Light mode view
