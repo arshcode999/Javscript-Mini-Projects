@@ -8,6 +8,7 @@
  <br>
   #!Dark mode view
  <img src="https://raw.githubusercontent.com/arshcode999/Javscript-Mini-Projects/main/counter%20project/Preview/dark%20mode.jpeg">
+ <p>This is a <b>Counter Project</b> in whic you can count the numbers</p>
  # 2. To do Project [Day 2]
-  <img src="https://raw.githubusercontent.com/arshcode999/Javscript-Mini-Projects/main/To%20Do%20app/preview/To%20do.jpeg">
-  <p>This is a <b>To Do Project</b> build by using the Basic Html,CSS,Javascript you can understand this easily and i have tried to give comments in javascript code for your understanding explore project now!</p>
+  <img src="https://raw.githubusercontent.com/arshcode999/Javscript-Mini-Projects/main/To%20Do%20app/preview/To%20do.jpeg" border="10px">
+  <p>This is a <b>To Do Project</b> build by using the Basic Html,CSS,Javascript you can understand this easily and i have tried to give comments in javascript code for your understanding explore project now!<br>You add and Delete the Task</p>
