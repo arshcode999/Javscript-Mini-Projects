@@ -13,3 +13,6 @@
  # 2. To do Project [Day 2]
   <img src="https://raw.githubusercontent.com/arshcode999/Javscript-Mini-Projects/main/To%20Do%20app/preview/To%20do.jpeg">
   <p>This is a <b>To Do Project</b> build by using the Basic Html,CSS,Javascript you can understand this easily and i have tried to give comments in javascript code for your understanding explore project now!<br>You add and Delete the Task</p>
+ # 3. Calculator [Day 3]
+  <img src="https://raw.githubusercontent.com/arshcode999/Javscript-Mini-Projects/main/calculator/preview/calculator.jpeg">
+  <p>This is a <b>Basic Calculator</b> build by using the Basic Html,CSS,Javascript you can understand this easily and i have tried to give comments in javascript code for your understanding explore project now!<br>You perform basic opreation of maths. I have use a <b><i>eval</i></b> function taking a string from user and covert into numberic value</p>
