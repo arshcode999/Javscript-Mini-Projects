@@ -22,4 +22,4 @@
 
  # 4. Digital clock display [Day 4]
   <img src="https://raw.githubusercontent.com/arshcode999/Javscript-Mini-Projects/main/Digital%20clock%20display/Preview/Day%204.jpeg">
-  <p>This is a <b>Basic Digital clock display</b> build by using the Basic Html,CSS,Javascript you can understand this easily and i have tried to give comments in javascript code for your understanding explore project now!<br>You perform basic opreation of maths. I have use only date function to get value. Go through this project helps to build you basics in js for all date concepts.</p>
+  <p>This is a <b>Basic Digital clock display</b> build by using the Basic Html,CSS,Javascript you can understand this easily and i have tried to give comments in javascript code for your understanding explore project now!<br>You perform basic opreation of maths. I have use only date function to get value. Go through this project helps to build you basics in js for all date concepts. And used unsplash random image for background.</p>
