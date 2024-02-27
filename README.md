@@ -4,7 +4,8 @@
  These projects only for educational purpose , It helps you to practice the javascript by just knowing the basics of javscript you can start these projects.
  <br>
  Feel Free to use them
- # 1. Counter webpage [Day 1]
+
+# 1. Counter webpage [Day 1]
  #!Light mode view
  <img src="https://raw.githubusercontent.com/arshcode999/Javscript-Mini-Projects/main/counter%20project/Preview/light%20mode.jpeg">
  <br>
@@ -21,5 +22,21 @@
   <p>This is a <b>Basic Calculator</b> build by using the Basic Html,CSS,Javascript you can understand this easily and i have tried to give comments in javascript code for your understanding explore project now!<br>You perform basic opreation of maths. I have use a <b><i>eval</i></b> function taking a string from user and covert into numberic value</p>
 
  # 4. Digital clock display [Day 4]
+  <img src="https://raw.githubusercontent.com/arshcode999/Javscript-Mini-Projects/main/Digital%20clock%20display/Preview/Day%204.jpeg">
+  <p>This is a <b>Basic Digital clock display</b> build by using the Basic Html,CSS,Javascript you can understand this easily and i have tried to give comments in javascript code for your understanding explore project now!<br>You perform basic opreation of maths. I have use only date function to get value. Go through this project helps to build you basics in js for all date concepts. And used unsplash random image for background.</p>
+
+ # 5. Digital clock display [Day 4]
+  <img src="https://raw.githubusercontent.com/arshcode999/Javscript-Mini-Projects/main/Digital%20clock%20display/Preview/Day%204.jpeg">
+  <p>This is a <b>Basic Digital clock display</b> build by using the Basic Html,CSS,Javascript you can understand this easily and i have tried to give comments in javascript code for your understanding explore project now!<br>You perform basic opreation of maths. I have use only date function to get value. Go through this project helps to build you basics in js for all date concepts. And used unsplash random image for background.</p>
+
+ # 6. Digital clock display [Day 4]
+  <img src="https://raw.githubusercontent.com/arshcode999/Javscript-Mini-Projects/main/Digital%20clock%20display/Preview/Day%204.jpeg">
+  <p>This is a <b>Basic Digital clock display</b> build by using the Basic Html,CSS,Javascript you can understand this easily and i have tried to give comments in javascript code for your understanding explore project now!<br>You perform basic opreation of maths. I have use only date function to get value. Go through this project helps to build you basics in js for all date concepts. And used unsplash random image for background.</p>
+
+ # 7. Digital clock display [Day 4]
+  <img src="https://raw.githubusercontent.com/arshcode999/Javscript-Mini-Projects/main/Digital%20clock%20display/Preview/Day%204.jpeg">
+  <p>This is a <b>Basic Digital clock display</b> build by using the Basic Html,CSS,Javascript you can understand this easily and i have tried to give comments in javascript code for your understanding explore project now!<br>You perform basic opreation of maths. I have use only date function to get value. Go through this project helps to build you basics in js for all date concepts. And used unsplash random image for background.</p>
+
+ # 8. Digital clock display [Day 4]
   <img src="https://raw.githubusercontent.com/arshcode999/Javscript-Mini-Projects/main/Digital%20clock%20display/Preview/Day%204.jpeg">
   <p>This is a <b>Basic Digital clock display</b> build by using the Basic Html,CSS,Javascript you can understand this easily and i have tried to give comments in javascript code for your understanding explore project now!<br>You perform basic opreation of maths. I have use only date function to get value. Go through this project helps to build you basics in js for all date concepts. And used unsplash random image for background.</p>
