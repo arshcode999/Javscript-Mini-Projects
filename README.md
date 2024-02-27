@@ -35,9 +35,9 @@
   <p>This is a <b>Currency Coverter</b> build by using the Basic Html,CSS,Javascript you can understand this easily and i have tried to give comments in javascript code for your understanding explore project now!<br>i have use a js object for exchange rate use can also use api for exchange rates.</p>
 
  # 7. Daily quote generator [Day 7]
-  <img src="https://raw.githubusercontent.com/arshcode999/Javscript-Mini-Projects/main/Digital%20clock%20display/Preview/Day%204.jpeg">
+  <img src="https://raw.githubusercontent.com/arshcode999/Javscript-Mini-Projects/main/Quote%20genrator/preview/quote.jpeg">
   <p>This is a <b>Daily quote generator</b> build by using the Basic Html,CSS,Javascript you can understand this easily and i have tried to give comments in javascript code for your understanding explore project now!<br>i have use a object which hold the 20 quotes and use random function each and every time page refresh give a random quote!</p>
 
  # 8. Text-to-Speech [Day 8]
-  <img src="https://raw.githubusercontent.com/arshcode999/Javscript-Mini-Projects/main/Digital%20clock%20display/Preview/Day%204.jpeg">
+  <img src="https://raw.githubusercontent.com/arshcode999/Javscript-Mini-Projects/main/Text%20to%20speech/Preview/text_to_speech.jpeg">
   <p>This is a <b>Text-to-Speech</b> build by using the Basic Html,CSS,Javascript you can understand this easily and i have tried to give comments in javascript code for your understanding explore project now!<br>Just pase the text and click on speak!</p>
